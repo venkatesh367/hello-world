@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+
+venky here, just trying to learn github. this is my first commit 
